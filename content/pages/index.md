@@ -24,6 +24,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     background_image_position: left bottom
+    has_border: true
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with

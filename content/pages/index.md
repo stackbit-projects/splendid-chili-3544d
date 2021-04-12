@@ -57,6 +57,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     padding_top: medium
+    has_border: true
   - type: features_section
     title: My services
     subtitle: What I do
